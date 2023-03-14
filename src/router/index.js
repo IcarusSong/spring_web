@@ -9,6 +9,7 @@ import PkIndexView from '../views/pk/PkIndexView'
 const routes = [
   {
     path: "/",
+    name: "home",
     redirect: "/pk/"
 
   },
